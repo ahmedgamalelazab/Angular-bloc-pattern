@@ -12,7 +12,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "angular",
+    "angular-bloc",
+    "bloc",
+    "bloc-pattern",
+    "state management",
+    "management",
+    "state",
+    "states",
+    "typescript",
+    "solution",
+    "state library",
+    "angular-bloc",
+    "blocs",
+    "angular-bloc"
+  ],
   "author": "ahmed gamal",
   "license": "ISC"
 }
